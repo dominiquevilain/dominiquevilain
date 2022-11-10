@@ -1,5 +1,4 @@
-# Dominique Vilain
-_J’enseigne les technologies du Web avec un accent sur la qualité Web_
+# J’enseigne les technologies du Web avec un accent sur la qualité Web
 
 Je suis enseignant en Belgique, près de Liège. J’enseigne les technologies du Web, en mode full-stack.
 
