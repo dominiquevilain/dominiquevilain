@@ -19,8 +19,8 @@ J’ai découvert le Web en tant qu’utilisateur, à l’université, en 1994, 
 Mes outils informatiques privilégiés pour la pratique de ce métier sont :
 
 - MacOS ;
-- Kitty + zsh ;
-- NeoVim ;
+- iTerm + zsh ;
+- PHPStorm et NeoVim ;
 - Git et Github.
 
 J’ai une bonne maîtrise de divers langages de programmation et des concepts du développement côté serveur et côté client ainsi que des langages de l’intégration Web.
