@@ -9,7 +9,7 @@ Au delà des aspects techniques couverts par la formation à laquelle je partici
 - bonnes pratiques en matière de développement et d’intégration (réaliser des médias faciles à maintenir dans le temps et faciles à faire évoluer);
 - optimisation des performances et des ressources (pourquoi consommer trop quand on peut consommer moins ? Pourquoi être lent quand on peut être rapide ?);
 - rédaction de cahier de charges (parce qu'au final, ce qui compte pour que le média, c'est de comprendre à quel besoin il répond);
-- typographie (le point de départ, (l'essence)[https://ia.net/topics/the-web-is-all-about-typography-period]);
+- typographie (le point de départ, [l'essence](https://ia.net/topics/the-web-is-all-about-typography-period));
 - identité et branding ;
 - rédaction de contenus et communication au sens large ;
 - éthique et respect de la vie privée.
