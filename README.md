@@ -16,13 +16,13 @@ Au delà des aspects techniques couverts par la formation à laquelle je partici
 - rédaction de contenus et communication au sens large ;
 - éthique et respect de la vie privée.
 
-J’ai découvert le Web en tant qu’utilisateur, à l’université, en 1994, où j’ai fait une licence en psychologie sociale cognitive. J’ai vraiment commencé à produire des sites Web en 1997. 
+J’ai commencé la programmation en 1984, sur des calculettes programmables et sur un commodore 64. J’ai découvert le Web en tant qu’utilisateur, à l’université, en 1994, où j’ai fait une licence en psychologie sociale cognitive. J’ai vraiment commencé à produire des sites Web en 1997. 
 
 Mes outils informatiques principaux pour la pratique de ce métier sont :
 
-- MacOS ;
+- MacOS (depuis 1991) ;
 - zsh ;
-- les IDE de Jetbrains ;
+- divers éditeurs de code ;
 - Figma ;
 - Git et Github.
 
