@@ -32,7 +32,7 @@ C’est le langage le plus utilisé du Web et je pense qu’avec ce choix, nos �
 
 En dehors de Wordpress, PHP offre l’occasion d’aborder pleinement toutes les questions liées aux bonnes pratiques, ce qui n’était pas gagné tant une réputation de langage pour bricoleur amateur l’a accompagné durant des années et continue de lui être associée auprès des ignorants ou des religieux (ce qui revient au même). Grâce à [Symfony](https://symfony.com) et son créateur [Fabien Potencier](https://github.com/fabpot), [Laravel](https://laravel.com), [PHP-Fig](https://php-fig.org) et d'autres initiatives, la communauté PHP ❤️ est aujourd'hui une des plus dynamiques sur le terrain de l'innovation et des bonnes pratiques. 
 
-
+- [Why PHP in 2026](https://whyphp.dev/)
 - [Php de 2014 à 2024](https://www.youtube.com/watch?v=p_6ewdiwnRo)
 - [PHP doesn't suck (anymore)](https://www.youtube.com/watch?v=WsnHWxO7Krw)
 
