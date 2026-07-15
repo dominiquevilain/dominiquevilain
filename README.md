@@ -35,5 +35,6 @@ En dehors de Wordpress, PHP offre l’occasion d’aborder pleinement toutes les
 - ![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat-square&labelColor=18181b)
 - [Php de 2014 à 2024](https://www.youtube.com/watch?v=p_6ewdiwnRo)
 - [PHP doesn't suck (anymore)](https://www.youtube.com/watch?v=WsnHWxO7Krw)
+- [Hello PHP (2026)](https://stitcher.io/php/the-basics/hello-php)
 
 
