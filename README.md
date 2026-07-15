@@ -2,7 +2,8 @@
 
 Je suis enseignant en Belgique, près de Liège. J’enseigne les technologies du Web, en mode _full-stack_.
 
-Pour l'essentiel, les dépôts scolaires sont dans des organisations dédiées. 
+Pour l'essentiel, les dépôts scolaires sont dans des organisations dédiées qui respectent une logique de nommage : tecg (pour _techniques graphiques_), tiret, acronyme du cours.
+Par exemple *tecg-dcs* pour le cours de _développement côté serveur_.
 
 Au delà des aspects techniques couverts par la formation à laquelle je participe, je suis surtout concerné par tout ce qui touche à la qualité Web :
 
