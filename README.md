@@ -22,8 +22,9 @@ J’ai commencé la programmation en 1984, sur des calculettes programmables et 
 Mes outils informatiques principaux pour la pratique de ce métier sont :
 
 - MacOS (depuis 1991) ;
-- zsh ;
-- divers éditeurs de code ;
+- zsh avec lequel j'interagis via Kitty ;
+- divers éditeurs de code (nvim, sublime text et PHPStorm) ;
+- divers navigateurs ;
 - Figma ;
 - Git et Github.
 
